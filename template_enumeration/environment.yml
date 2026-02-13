@@ -1,0 +1,22 @@
+name: one_step_templ
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.9.19
+  - pip=23.2.1
+  - rdkit=2020.09.5
+  - openjdk=11.0.15
+  - pytorch=1.12.1
+  - cudatoolkit=11.3
+  - mkl=2023.2.0
+  - rdchiral_cpp=1.1.2
+  - pip:
+      - pandas==1.5.3
+      - pebble==5.0.3
+      - scipy==1.7.3
+      - tqdm==4.66.1
+      - torch-model-archiver==0.3.1
+      - torchserve==0.3.1

@@ -1,0 +1,19 @@
+name: one_step_retro_failure_mode
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13.2
+  - ipython=9.8.0
+  - ipykernel=7.1.0
+  - pandas=2.2.3
+  - numpy=2.3.5
+  - scikit-learn=1.6.1
+  - rdkit=2024.09.5
+  - matplotlib=3.10.8
+  - tqdm=4.67.1
+  - pip=25.3
+  - scipy=1.16.3
+
+  - pip:
+      - openbabel-wheel==3.1.1.21
+      - rxnmapper==0.4.2

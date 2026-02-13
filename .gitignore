@@ -1,0 +1,9 @@
+__pycache__/
+
+logs/
+data/
+results/
+data_uspto/
+models_uspto/
+*.pyc
+condaenv.*
