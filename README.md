@@ -17,7 +17,7 @@ conda activate one_step_retro_failure_mode
 
 ## 2. Data
 
-The USPTO-Full dataset used in this project is available [here](10.5281/zenodo.18623634). We cannot publicly release CAS or Pistachio datasets.
+The USPTO-Full dataset used in this project is available [here](https://zenodo.org/records/18623634). We cannot publicly release CAS or Pistachio datasets.
 
 **Split USPTO-Full data:**
 
