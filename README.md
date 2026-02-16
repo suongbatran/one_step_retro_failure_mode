@@ -1,6 +1,6 @@
 # Quantifying the Failure Modes of Current One-step Retrosynthesis Models
 
-This repository contains code and scripts for analyzing and quantifying failure modes of one-step retrosynthesis models, as described in our paper (link TBD). Please refer to the paper for detailed methodology and results.
+This repository contains code and scripts for analyzing and quantifying failure modes of one-step retrosynthesis models, as described in our [paper](https://doi.org/10.26434/chemrxiv.15000071/v1). Please refer to the paper for detailed methodology and results.
 
 ---
 
@@ -133,11 +133,10 @@ Use `examples/example_view_prediction.ipynb` to view per-entry predictions/accur
 
 ## Citation
 
-@article{xxx,
+@article{tran2025_quantifying_failure_modes,
   title={Quantifying the Failure Modes of Current One-step Retrosynthesis Models},
-  author={...},
-  journal={...},
-  year={...},
-  note={link TBD}
+  author={Tran, Suong B. A. and Roh, Jihye and Coley, Connor W.},
+  year={2026},
+  doi={https://doi.org/10.26434/chemrxiv.15000071/v1}
 }
 
